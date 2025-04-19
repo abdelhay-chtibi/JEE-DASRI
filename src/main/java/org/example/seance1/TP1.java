@@ -1,6 +1,6 @@
 package org.example.seance1;
 
-import java.net.*;
+        import java.net.*;
 public class TP1 {
     public static void main(String[] args) {
         try {
